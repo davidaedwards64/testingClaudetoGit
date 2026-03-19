@@ -1,2 +1,3 @@
-# testingClaudeCode
-Testing integrating Claude Code with Github
+# testGit
+
+A placeholder/test repository.
